@@ -1,2 +1,3 @@
 # Python2021
-Python projcts from books
+Python projects from books:
+1. Python Crash Course, 2nd Edition.
